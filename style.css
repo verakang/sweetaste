@@ -157,7 +157,7 @@ table {
     display: block;
     width: 220px;
     height: 40px;
-    background: url(/img/logo-all-dark.svg) center center no-repeat;
+    background: url(img/logo-all-dark.svg) center center no-repeat;
     text-indent: 101%;
     white-space: nowrap;
     overflow: hidden;
