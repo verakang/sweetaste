@@ -267,7 +267,7 @@ table {
     padding: 14px 0;
 }
 
-.content .buy a {
+.content .buy {
     display: block;
     background-color: #EAF0ED;
     color: #3F5D45;
@@ -278,7 +278,7 @@ table {
     padding: 16px 0;
 }
 
-.content .buy a:hover {
+.content .buy:hover {
     background-color: #d6e2dc;
 }
 
